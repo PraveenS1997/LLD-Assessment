@@ -1,4 +1,4 @@
-package src;
+package src.decorator;
 
 public interface Pizza {
     String getDescription();

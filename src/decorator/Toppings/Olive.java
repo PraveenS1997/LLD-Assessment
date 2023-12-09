@@ -1,6 +1,6 @@
-package src.Toppings;
+package src.decorator.Toppings;
 
-import src.Pizza;
+import src.decorator.Pizza;
 
 public class Olive extends ToppingsDecorator {
     private final Pizza pizza;

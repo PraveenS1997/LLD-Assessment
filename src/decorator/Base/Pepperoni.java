@@ -1,6 +1,6 @@
-package src.Base;
+package src.decorator.Base;
 
-import src.Pizza;
+import src.decorator.Pizza;
 
 public class Pepperoni implements Pizza {
     @Override

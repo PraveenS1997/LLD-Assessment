@@ -1,11 +1,11 @@
-package src.Base;
+package src.decorator.Base;
 
-import src.Pizza;
+import src.decorator.Pizza;
 
-public class Margherita implements Pizza {
+public class BBQChicken implements Pizza {
     @Override
     public String getDescription() {
-        return "Margherita";
+        return "BBQChicken";
     }
 
     @Override
